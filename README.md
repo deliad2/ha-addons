@@ -229,3 +229,4 @@ For issues and questions:
 ## License
 
 MIT License - See LICENSE file for details
+"# ha-addons" 
