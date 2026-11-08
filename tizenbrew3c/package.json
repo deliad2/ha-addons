@@ -1,0 +1,10 @@
+{
+  "name": "tvsysreport",
+  "version": "1.0.0",
+  "packageType": "app",
+  "appName": "SystemReport",
+  "appPath": "app/index.html",
+  "keys": [],
+  "serviceFile": "service.js",
+  "description": "System report module"
+}
